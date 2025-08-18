@@ -11,7 +11,7 @@ The package also supports **more than two data blocks or sources**, as long as t
 ```bash
 git clone https://github.com/teannafeng/paper-jem2024-wide2long.git
 cd paper-jem2024-wide2long
-pip install -r requirements.txt
+pip install -r requirements.txt # better to do this in a virtual environment
 ```
 
 ## Usage
