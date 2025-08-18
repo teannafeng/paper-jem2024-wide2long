@@ -2,7 +2,7 @@
 
 This package implements the **wide → semi-long** data transformation described in [Feng & Cai (2024)](https://onlinelibrary.wiley.com/doi/full/10.1111/jedm.12396).
 
-In our paper, this corresponds to the data re-structuring from **Table 4 → Table 5** (without the school dummies created). In that case, we work with **two data blocks**: one for assessment item data and another for gameplay indicator data.
+In our paper, this corresponds to the data re-structuring **from Table 4 to Table 5** (without the school dummies created). In that case, we work with **two data blocks**: one for assessment item data and another for gameplay indicator data.
 
 The package also supports **more than two data blocks or sources**, as long as the mapping specifies how each data block (elements and variables) should be re-structured into the semi-long format.
 
