@@ -1,0 +1,10 @@
+__pycache__/
+
+# Project-specific files
+example/output.csv
+
+# Virtual environment
+.venv/
+
+# pytest cache and reports
+.pytest_cache/
