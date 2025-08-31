@@ -4,7 +4,7 @@ from wide2long.core import convert, load_mapping, load_data, save_data
 
 
 def run():
-    ap = argparse.ArgumentParser(description="A wide data to Semi-long (block-diagonal) data converter")
+    ap = argparse.ArgumentParser(description="A wide data to semi-long (block-diagonal) data converter")
     ap.add_argument("--input"       , required= True  , type=Path, help="Input wide data (.csv or .parquet)")
     ap.add_argument("--output"      , required= True  , type=Path, help="Output data (.csv or .parquet)")
     ap.add_argument("--mapping"     , required= True  , type=Path, help="Mapping file (.csv or .json)")
