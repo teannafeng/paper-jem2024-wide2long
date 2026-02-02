@@ -1,3 +1,5 @@
+The PDF version of the paper can be found [here](https://github.com/teannafeng/paper-jem2024-wide2long/blob/main/JEM%20-%202024%20-%20Feng%20-%20Sensemaking%20of%20Process%20Data%20from%20Evaluation%20Studies%20of%20Educational%20Games.pdf). The online version can be found [here](https://onlinelibrary.wiley.com/doi/full/10.1111/jedm.12396).
+
 # Wide2Long: A Wide to Long Block-Diagonal Data Converter
 
 This package implements the **wide → semi-long** data transformation described in [Feng & Cai (2024)](https://onlinelibrary.wiley.com/doi/full/10.1111/jedm.12396).
