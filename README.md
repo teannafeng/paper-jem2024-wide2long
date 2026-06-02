@@ -1,4 +1,4 @@
-The PDF version of the paper can be found [here](https://github.com/teannafeng/paper-jem2024-wide2long/blob/main/JEM%20-%202024%20-%20Feng%20-%20Sensemaking%20of%20Process%20Data%20from%20Evaluation%20Studies%20of%20Educational%20Games.pdf). The online version can be found [here](https://onlinelibrary.wiley.com/doi/full/10.1111/jedm.12396).
+**Cite the paper:** Feng, T., & Cai, L. (2024). Sensemaking of process data from evaluation studies of educational games: An application of cross-classified item response theory modeling. _Journal of Educational Measurement_, _63_(1), e12396. [https://doi.org/10.1111/jedm.12396 ](https://doi.org/10.1111/jedm.12396 )
 
 # Wide2Long: A Wide to Long Block-Diagonal Data Converter
 
